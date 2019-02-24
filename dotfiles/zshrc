@@ -119,6 +119,10 @@ function print_master_branch_name() {
 }
 
 # Aliases
+alias -g G="| grep"
+alias -g Gv="G -v"
+alias C="clear &&"
+alias L="ll"
 alias vim="nvim"
 alias ncdu="ncdu --color dark -rr -x"
 if isOsx ; then

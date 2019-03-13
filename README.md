@@ -5,7 +5,7 @@ This is my configurations repo.
 Paste into a terminal:
 
 ```
-mkdir -p ~/.local && cd ~/.local && git clone https://github.com/TalAmuyal/MyConfigs.git && cd MyConfigs && ./setup.sh
+mkdir -p ~/.local && cd ~/.local && git clone https://github.com/jackbu131/MyConfigs.git && cd MyConfigs && ./setup.sh
 ```
 
 # NeoVim/Oni TODOs
